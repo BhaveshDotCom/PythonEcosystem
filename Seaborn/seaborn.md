@@ -49,6 +49,7 @@ Used to analyze data based on discrete groups or categories.
 
 ## 3. Distribution Plots
 Used to show the distribution of one or more variables.
+Univariate analysis, Central tendency, any outliners
 
 **Examples**
 - `histplot()`
